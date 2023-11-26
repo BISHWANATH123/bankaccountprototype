@@ -1,0 +1,2 @@
+# bankaccountprototype
+construct function
